@@ -13,7 +13,7 @@ gem "solid_queue"
 gem "stimulus-rails"
 gem "turbo-rails"
 gem "tzinfo-data", platforms: %i[ windows jruby ]
-gem 'rails', '~> 7.0.0'
+gem 'rails', '~> 7.2.2'
 gem "thruster", require: false
 
 group :development do
