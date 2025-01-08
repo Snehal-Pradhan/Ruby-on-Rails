@@ -32,7 +32,7 @@ end
 
 
 # Use MongoDB for the database, with Mongoid as the ODM
-gem "mongoid", "9.0.3"
+gem "mongoid", "9.0.4"
 
 # The Rails CLI tool for MongoDB
 gem "railsmdb", "1.0.0.alpha3"
